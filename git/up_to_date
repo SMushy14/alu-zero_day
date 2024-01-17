@@ -1,2 +1,3 @@
-:wq
-:q!
+git fetch --all
+git merge
+git rebase
